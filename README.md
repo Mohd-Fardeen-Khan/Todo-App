@@ -18,6 +18,7 @@ A clean and modern To-Do List web application built using HTML, CSS, and JavaScr
 ## 📸 Preview
 
 ![ToDO Screenshot](image.png)
+![ToDO Tasks Screenshot](image2.png)
 
 ## 📌 Future Improvements
 
